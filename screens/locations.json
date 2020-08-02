@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Bico Bar",
+        "address": "Travesía Orillamar, 2, 15001 A Coruña, C",
+        "coords": {
+            "latitude": 43.375394,
+            "longitude": -8.395724
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/49/b3/df/bico-bar.jpg"
+    },
+    {
+        "name": "Pepa Loba",
+        "address": "Travesía Orillamar, 2, 15001 A Coruña, C",
+        "coords": {
+            "latitude": 43.374088,
+            "longitude": -8.396882
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/49/b3/df/bico-bar.jpg"
+    },
+    {
+        "name": "A Repichoca",
+        "address": "Rúa Orillamar, 13, 15001 A Coruña",
+        "coords": {
+            "latitude": 43.374448,
+            "longitude": -8.394859
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/49/b3/df/bico-bar.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+export const weekdays: Array<string> = [];
+export const months: Array<string> = [];
+weekdays[0] = "Dom";
+weekdays[1] = "Lun";
+weekdays[2] = "Mar";
+weekdays[3] = "Mie";
+weekdays[4] = "Jue";
+weekdays[5] = "Vie";
+weekdays[6] = "Sab";
+
+months[0] = "enero";
+months[1] = "febrero";
+months[2] = "marzo";
+months[3] = "abril";
+months[4] = "mayo";
+months[5] = "junio";
+months[6] = "julio";
+months[7] = "agosto";
+months[8] = "septiembre";
+months[9] = "octubre";
+months[10] = "noviembre";
+months[11] = "diciembre";
